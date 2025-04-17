@@ -1,0 +1,1088 @@
+[
+  {
+    "rang": "Afghanistan",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Albanie",
+    "pays": "1,946",
+    "pib_en_milliards_usd": "2,229",
+    "annee": "2,296"
+  },
+  {
+    "rang": "Algérie",
+    "pays": "42,346",
+    "pib_en_milliards_usd": "44,372",
+    "annee": "44,78"
+  },
+  {
+    "rang": "Andorre",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Angola",
+    "pays": "6,639",
+    "pib_en_milliards_usd": "6,214",
+    "annee": "6,214"
+  },
+  {
+    "rang": "Antigua-et-Barbuda",
+    "pays": "0,131",
+    "pib_en_milliards_usd": "0,148",
+    "annee": "0,164"
+  },
+  {
+    "rang": "Argentine",
+    "pays": "233,696",
+    "pib_en_milliards_usd": "189,802",
+    "annee": "94,25"
+  },
+  {
+    "rang": "Aruba",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Australie",
+    "pays": "162,955",
+    "pib_en_milliards_usd": "188,446",
+    "annee": "187,085"
+  },
+  {
+    "rang": "Autriche",
+    "pays": "80,923",
+    "pib_en_milliards_usd": "70,121",
+    "annee": "70,111"
+  },
+  {
+    "rang": "Bahamas",
+    "pays": "2,598",
+    "pib_en_milliards_usd": "2,692",
+    "annee": "3,031"
+  },
+  {
+    "rang": "Bahreïn",
+    "pays": "3,593",
+    "pib_en_milliards_usd": "4,056",
+    "annee": "4,264"
+  },
+  {
+    "rang": "Bangladesh",
+    "pays": "24,775",
+    "pib_en_milliards_usd": "26,355",
+    "annee": "24,678"
+  },
+  {
+    "rang": "Barbade",
+    "pays": "1,018",
+    "pib_en_milliards_usd": "1,12",
+    "annee": "1,171"
+  },
+  {
+    "rang": "Belgique",
+    "pays": "123,478",
+    "pib_en_milliards_usd": "102,245",
+    "annee": "89,958"
+  },
+  {
+    "rang": "Belize",
+    "pays": "0,23",
+    "pib_en_milliards_usd": "0,239",
+    "annee": "0,239"
+  },
+  {
+    "rang": "Bénin",
+    "pays": "2,302",
+    "pib_en_milliards_usd": "1,557",
+    "annee": "1,542"
+  },
+  {
+    "rang": "Bhoutan",
+    "pays": "0,132",
+    "pib_en_milliards_usd": "0,143",
+    "annee": "0,15"
+  },
+  {
+    "rang": "Bolivie",
+    "pays": "3,589",
+    "pib_en_milliards_usd": "3,44",
+    "annee": "3,813"
+  },
+  {
+    "rang": "Botswana",
+    "pays": "1,174",
+    "pib_en_milliards_usd": "1,037",
+    "annee": "1,094"
+  },
+  {
+    "rang": "Brésil",
+    "pays": "145,819",
+    "pib_en_milliards_usd": "167,583",
+    "annee": "179,166"
+  },
+  {
+    "rang": "Brunei",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Bulgarie",
+    "pays": "37,751",
+    "pib_en_milliards_usd": "40,718",
+    "annee": "42,467"
+  },
+  {
+    "rang": "Burkina Faso",
+    "pays": "2,386",
+    "pib_en_milliards_usd": "2,076",
+    "annee": "1,934"
+  },
+  {
+    "rang": "Burundi",
+    "pays": "0,951",
+    "pib_en_milliards_usd": "0,989",
+    "annee": "1,045"
+  },
+  {
+    "rang": "Cap-Vert",
+    "pays": "0,157",
+    "pib_en_milliards_usd": "0,154",
+    "annee": "0,155"
+  },
+  {
+    "rang": "Cambodge",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Cameroun",
+    "pays": "8,85",
+    "pib_en_milliards_usd": "10,026",
+    "annee": "9,616"
+  },
+  {
+    "rang": "Canada",
+    "pays": "276,064",
+    "pib_en_milliards_usd": "307,246",
+    "annee": "314,639"
+  },
+  {
+    "rang": "République centrafricaine",
+    "pays": "0,714",
+    "pib_en_milliards_usd": "0,743",
+    "annee": "0,719"
+  },
+  {
+    "rang": "Tchad",
+    "pays": "0,738",
+    "pib_en_milliards_usd": "0,873",
+    "annee": "0,844"
+  },
+  {
+    "rang": "Chili",
+    "pays": "29,032",
+    "pib_en_milliards_usd": "34,374",
+    "annee": "25,63"
+  },
+  {
+    "rang": "Chine",
+    "pays": "303,004",
+    "pib_en_milliards_usd": "288,699",
+    "annee": "284,601"
+  },
+  {
+    "rang": "Colombie",
+    "pays": "46,501",
+    "pib_en_milliards_usd": "50,661",
+    "annee": "54,252"
+  },
+  {
+    "rang": "Comores",
+    "pays": "0,242",
+    "pib_en_milliards_usd": "0,212",
+    "annee": "0,201"
+  },
+  {
+    "rang": "République démocratique du Congo",
+    "pays": "68,606",
+    "pib_en_milliards_usd": "59,726",
+    "annee": "64,939"
+  },
+  {
+    "rang": "République du Congo",
+    "pays": "2,165",
+    "pib_en_milliards_usd": "1,775",
+    "annee": "1,548"
+  },
+  {
+    "rang": "Costa Rica",
+    "pays": "4,854",
+    "pib_en_milliards_usd": "2,636",
+    "annee": "2,619"
+  },
+  {
+    "rang": "Chypre",
+    "pays": "2,314",
+    "pib_en_milliards_usd": "2,242",
+    "annee": "2,319"
+  },
+  {
+    "rang": "Tchécoslovaquie",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Côte d'Ivoire",
+    "pays": "13,877",
+    "pib_en_milliards_usd": "11,502",
+    "annee": "10,32"
+  },
+  {
+    "rang": "Danemark",
+    "pays": "71,127",
+    "pib_en_milliards_usd": "61,878",
+    "annee": "60,413"
+  },
+  {
+    "rang": "Djibouti",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Dominique",
+    "pays": "0,073",
+    "pib_en_milliards_usd": "0,082",
+    "annee": "0,09"
+  },
+  {
+    "rang": "République dominicaine",
+    "pays": "8,672",
+    "pib_en_milliards_usd": "9,698",
+    "annee": "9,141"
+  },
+  {
+    "rang": "Équateur",
+    "pays": "16,84",
+    "pib_en_milliards_usd": "17,243",
+    "annee": "17,214"
+  },
+  {
+    "rang": "Égypte",
+    "pays": "23,523",
+    "pib_en_milliards_usd": "25,76",
+    "annee": "30,479"
+  },
+  {
+    "rang": "Salvador",
+    "pays": "3,912",
+    "pib_en_milliards_usd": "3,449",
+    "annee": "3,406"
+  },
+  {
+    "rang": "Guinée équatoriale",
+    "pays": "0,032",
+    "pib_en_milliards_usd": "0,03",
+    "annee": "0,035"
+  },
+  {
+    "rang": "Érythrée",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Eswatini",
+    "pays": "0,754",
+    "pib_en_milliards_usd": "0,798",
+    "annee": "0,714"
+  },
+  {
+    "rang": "Éthiopie",
+    "pays": "7,385",
+    "pib_en_milliards_usd": "7,578",
+    "annee": "7,973"
+  },
+  {
+    "rang": "Fidji",
+    "pays": "1,303",
+    "pib_en_milliards_usd": "1,339",
+    "annee": "1,293"
+  },
+  {
+    "rang": "Finlande",
+    "pays": "53,714",
+    "pib_en_milliards_usd": "52,62",
+    "annee": "53,111"
+  },
+  {
+    "rang": "France",
+    "pays": "702,243",
+    "pib_en_milliards_usd": "618,954",
+    "annee": "588,015"
+  },
+  {
+    "rang": "Gabon",
+    "pays": "4,559",
+    "pib_en_milliards_usd": "4,111",
+    "annee": "3,853"
+  },
+  {
+    "rang": "Gambie",
+    "pays": "0,606",
+    "pib_en_milliards_usd": "0,579",
+    "annee": "0,548"
+  },
+  {
+    "rang": "Allemagne",
+    "pays": "853,705",
+    "pib_en_milliards_usd": "718,264",
+    "annee": "693,547"
+  },
+  {
+    "rang": "Ghana",
+    "pays": "37,35",
+    "pib_en_milliards_usd": "60,694",
+    "annee": "70,406"
+  },
+  {
+    "rang": "Grèce",
+    "pays": "57,01",
+    "pib_en_milliards_usd": "52,605",
+    "annee": "54,878"
+  },
+  {
+    "rang": "Grenade",
+    "pays": "0,111",
+    "pib_en_milliards_usd": "0,116",
+    "annee": "0,125"
+  },
+  {
+    "rang": "Guatemala",
+    "pays": "7,718",
+    "pib_en_milliards_usd": "8,431",
+    "annee": "8,539"
+  },
+  {
+    "rang": "Guinée",
+    "pays": "2,4",
+    "pib_en_milliards_usd": "2,381",
+    "annee": "2,335"
+  },
+  {
+    "rang": "Guinée-Bissau",
+    "pays": "0,289",
+    "pib_en_milliards_usd": "0,37",
+    "annee": "0,421"
+  },
+  {
+    "rang": "Guyana",
+    "pays": "0,842",
+    "pib_en_milliards_usd": "0,808",
+    "annee": "0,692"
+  },
+  {
+    "rang": "Haïti",
+    "pays": "2,664",
+    "pib_en_milliards_usd": "2,932",
+    "annee": "3,05"
+  },
+  {
+    "rang": "Honduras",
+    "pays": "3,968",
+    "pib_en_milliards_usd": "4,044",
+    "annee": "4,267"
+  },
+  {
+    "rang": "Hong Kong",
+    "pays": "28,862",
+    "pib_en_milliards_usd": "31,055",
+    "annee": "32,291"
+  },
+  {
+    "rang": "Hongrie",
+    "pays": "23,042",
+    "pib_en_milliards_usd": "23,629",
+    "annee": "24,064"
+  },
+  {
+    "rang": "Islande",
+    "pays": "3,434",
+    "pib_en_milliards_usd": "3,543",
+    "annee": "3,251"
+  },
+  {
+    "rang": "Inde",
+    "pays": "189,438",
+    "pib_en_milliards_usd": "196,535",
+    "annee": "203,537"
+  },
+  {
+    "rang": "Indonésie",
+    "pays": "99,296",
+    "pib_en_milliards_usd": "110,848",
+    "annee": "113,799"
+  },
+  {
+    "rang": "Iran",
+    "pays": "95,846",
+    "pib_en_milliards_usd": "101,481",
+    "annee": "125,8"
+  },
+  {
+    "rang": "Irak",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Irlande",
+    "pays": "21,425",
+    "pib_en_milliards_usd": "20,423",
+    "annee": "21,313"
+  },
+  {
+    "rang": "Israël",
+    "pays": "24,915",
+    "pib_en_milliards_usd": "26,399",
+    "annee": "28,292"
+  },
+  {
+    "rang": "Italie",
+    "pays": "479,122",
+    "pib_en_milliards_usd": "434,498",
+    "annee": "429,408"
+  },
+  {
+    "rang": "Jamaïque",
+    "pays": "2,565",
+    "pib_en_milliards_usd": "2,817",
+    "annee": "3,235"
+  },
+  {
+    "rang": "Japon",
+    "pays": "1 127,876",
+    "pib_en_milliards_usd": "1 243,79",
+    "annee": "1 157,601"
+  },
+  {
+    "rang": "Jordanie",
+    "pays": "3,932",
+    "pib_en_milliards_usd": "4,416",
+    "annee": "4,713"
+  },
+  {
+    "rang": "Kenya",
+    "pays": "13,449",
+    "pib_en_milliards_usd": "12,667",
+    "annee": "12,196"
+  },
+  {
+    "rang": "Kiribati",
+    "pays": "0,042",
+    "pib_en_milliards_usd": "0,044",
+    "annee": "0,041"
+  },
+  {
+    "rang": "Corée du Sud",
+    "pays": "65,368",
+    "pib_en_milliards_usd": "72,934",
+    "annee": "78,349"
+  },
+  {
+    "rang": "Koweït",
+    "pays": "-",
+    "pib_en_milliards_usd": "25,249",
+    "annee": "21,583"
+  },
+  {
+    "rang": "Laos",
+    "pays": "1,913",
+    "pib_en_milliards_usd": "1,118",
+    "annee": "1,119"
+  },
+  {
+    "rang": "Liban",
+    "pays": "4,02",
+    "pib_en_milliards_usd": "3,843",
+    "annee": "2,621"
+  },
+  {
+    "rang": "Lesotho",
+    "pays": "0,428",
+    "pib_en_milliards_usd": "0,435",
+    "annee": "0,362"
+  },
+  {
+    "rang": "Liberia",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Libye",
+    "pays": "40,19",
+    "pib_en_milliards_usd": "34,72",
+    "annee": "34,616"
+  },
+  {
+    "rang": "Luxembourg",
+    "pays": "6,434",
+    "pib_en_milliards_usd": "5,549",
+    "annee": "4,557"
+  },
+  {
+    "rang": "Macao",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Madagascar",
+    "pays": "5,202",
+    "pib_en_milliards_usd": "4,759",
+    "annee": "4,785"
+  },
+  {
+    "rang": "Malawi",
+    "pays": "3,022",
+    "pib_en_milliards_usd": "3,022",
+    "annee": "2,881"
+  },
+  {
+    "rang": "Malaisie",
+    "pays": "26,757",
+    "pib_en_milliards_usd": "27,321",
+    "annee": "29,278"
+  },
+  {
+    "rang": "Maldives",
+    "pays": "0,063",
+    "pib_en_milliards_usd": "0,073",
+    "annee": "0,087"
+  },
+  {
+    "rang": "Mali",
+    "pays": "2,031",
+    "pib_en_milliards_usd": "1,66",
+    "annee": "1,468"
+  },
+  {
+    "rang": "Malte",
+    "pays": "1,202",
+    "pib_en_milliards_usd": "1,174",
+    "annee": "1,109"
+  },
+  {
+    "rang": "Îles Marshall",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Mauritanie",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Maurice",
+    "pays": "1,242",
+    "pib_en_milliards_usd": "1,179",
+    "annee": "1,131"
+  },
+  {
+    "rang": "Mexique",
+    "pays": "242,153",
+    "pib_en_milliards_usd": "311,012",
+    "annee": "225,706"
+  },
+  {
+    "rang": "États fédérés de Micronésie",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Mongolie",
+    "pays": "2,728",
+    "pib_en_milliards_usd": "2,854",
+    "annee": "2,963"
+  },
+  {
+    "rang": "Maroc",
+    "pays": "23,807",
+    "pib_en_milliards_usd": "19,329",
+    "annee": "19,51"
+  },
+  {
+    "rang": "Mozambique",
+    "pays": "4,615",
+    "pib_en_milliards_usd": "3,585",
+    "annee": "3,662"
+  },
+  {
+    "rang": "Birmanie",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Namibie",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Nauru",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Népal",
+    "pays": "2,258",
+    "pib_en_milliards_usd": "2,641",
+    "annee": "2,669"
+  },
+  {
+    "rang": "Pays-Bas",
+    "pays": "193,758",
+    "pib_en_milliards_usd": "162,4",
+    "annee": "157,338"
+  },
+  {
+    "rang": "Nouvelle-Zélande",
+    "pays": "22,523",
+    "pib_en_milliards_usd": "23,442",
+    "annee": "23,207"
+  },
+  {
+    "rang": "Nicaragua",
+    "pays": "1,832",
+    "pib_en_milliards_usd": "2,156",
+    "annee": "2,497"
+  },
+  {
+    "rang": "Niger",
+    "pays": "3,531",
+    "pib_en_milliards_usd": "3,056",
+    "annee": "2,84"
+  },
+  {
+    "rang": "Nigeria",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Norvège",
+    "pays": "64,439",
+    "pib_en_milliards_usd": "63,597",
+    "annee": "62,647"
+  },
+  {
+    "rang": "Oman",
+    "pays": "7,269",
+    "pib_en_milliards_usd": "8,849",
+    "annee": "9,285"
+  },
+  {
+    "rang": "Pakistan",
+    "pays": "38,616",
+    "pib_en_milliards_usd": "45,681",
+    "annee": "49,932"
+  },
+  {
+    "rang": "Palaos",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Palestine",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Panama",
+    "pays": "4,253",
+    "pib_en_milliards_usd": "4,814",
+    "annee": "5,319"
+  },
+  {
+    "rang": "Papouasie-Nouvelle-Guinée",
+    "pays": "4,087",
+    "pib_en_milliards_usd": "4,011",
+    "annee": "3,805"
+  },
+  {
+    "rang": "Paraguay",
+    "pays": "4,095",
+    "pib_en_milliards_usd": "5,22",
+    "annee": "5,47"
+  },
+  {
+    "rang": "Pérou",
+    "pays": "20,19",
+    "pib_en_milliards_usd": "24,398",
+    "annee": "24,259"
+  },
+  {
+    "rang": "Philippines",
+    "pays": "37,082",
+    "pib_en_milliards_usd": "40,735",
+    "annee": "42,441"
+  },
+  {
+    "rang": "Pologne",
+    "pays": "56,731",
+    "pib_en_milliards_usd": "53,752",
+    "annee": "65,315"
+  },
+  {
+    "rang": "Portugal",
+    "pays": "32,607",
+    "pib_en_milliards_usd": "32,477",
+    "annee": "30,678"
+  },
+  {
+    "rang": "Porto Rico",
+    "pays": "14,436",
+    "pib_en_milliards_usd": "15,956",
+    "annee": "16,764"
+  },
+  {
+    "rang": "Qatar",
+    "pays": "6,665",
+    "pib_en_milliards_usd": "7,374",
+    "annee": "6,467"
+  },
+  {
+    "rang": "Roumanie",
+    "pays": "46,053",
+    "pib_en_milliards_usd": "55,319",
+    "annee": "55,375"
+  },
+  {
+    "rang": "Rwanda",
+    "pays": "1,493",
+    "pib_en_milliards_usd": "1,695",
+    "annee": "1,808"
+  },
+  {
+    "rang": "Saint-Christophe-et-Niévès",
+    "pays": "0,058",
+    "pib_en_milliards_usd": "0,069",
+    "annee": "0,079"
+  },
+  {
+    "rang": "Sainte-Lucie",
+    "pays": "0,17",
+    "pib_en_milliards_usd": "0,194",
+    "annee": "0,183"
+  },
+  {
+    "rang": "Saint-Vincent-et-les-Grenadines",
+    "pays": "0,089",
+    "pib_en_milliards_usd": "0,11",
+    "annee": "0,123"
+  },
+  {
+    "rang": "Samoa",
+    "pays": "0,127",
+    "pib_en_milliards_usd": "0,119",
+    "annee": "0,122"
+  },
+  {
+    "rang": "Saint-Marin",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Arabie saoudite",
+    "pays": "164,54",
+    "pib_en_milliards_usd": "184,292",
+    "annee": "153,24"
+  },
+  {
+    "rang": "Sénégal",
+    "pays": "4,338",
+    "pib_en_milliards_usd": "3,934",
+    "annee": "3,85"
+  },
+  {
+    "rang": "Seychelles",
+    "pays": "0,147",
+    "pib_en_milliards_usd": "0,154",
+    "annee": "0,148"
+  },
+  {
+    "rang": "Sierra Leone",
+    "pays": "1,701",
+    "pib_en_milliards_usd": "1,823",
+    "annee": "2,05"
+  },
+  {
+    "rang": "Singapour",
+    "pays": "12,082",
+    "pib_en_milliards_usd": "14,367",
+    "annee": "15,879"
+  },
+  {
+    "rang": "Îles Salomon",
+    "pays": "0,183",
+    "pib_en_milliards_usd": "0,194",
+    "annee": "0,193"
+  },
+  {
+    "rang": "Afrique du Sud",
+    "pays": "89,412",
+    "pib_en_milliards_usd": "93,15",
+    "annee": "85,897"
+  },
+  {
+    "rang": "Espagne",
+    "pays": "230,759",
+    "pib_en_milliards_usd": "204,588",
+    "annee": "197,643"
+  },
+  {
+    "rang": "Sri Lanka",
+    "pays": "5,194",
+    "pib_en_milliards_usd": "5,404",
+    "annee": "5,834"
+  },
+  {
+    "rang": "Soudan",
+    "pays": "9,095",
+    "pib_en_milliards_usd": "6,53",
+    "annee": "4,748"
+  },
+  {
+    "rang": "Suriname",
+    "pays": "1,276",
+    "pib_en_milliards_usd": "1,427",
+    "annee": "1,469"
+  },
+  {
+    "rang": "Suède",
+    "pays": "140,384",
+    "pib_en_milliards_usd": "128,148",
+    "annee": "113,059"
+  },
+  {
+    "rang": "Suisse",
+    "pays": "122,466",
+    "pib_en_milliards_usd": "112,129",
+    "annee": "114,891"
+  },
+  {
+    "rang": "Syrie",
+    "pays": "12,98",
+    "pib_en_milliards_usd": "16,652",
+    "annee": "17,415"
+  },
+  {
+    "rang": "Sao Tomé-et-Principe",
+    "pays": "0,069",
+    "pib_en_milliards_usd": "0,084",
+    "annee": "0,081"
+  },
+  {
+    "rang": "Taïwan",
+    "pays": "42,285",
+    "pib_en_milliards_usd": "48,969",
+    "annee": "49,535"
+  },
+  {
+    "rang": "Tanzanie",
+    "pays": "10,873",
+    "pib_en_milliards_usd": "13,005",
+    "annee": "14,932"
+  },
+  {
+    "rang": "Thaïlande",
+    "pays": "33,422",
+    "pib_en_milliards_usd": "35,999",
+    "annee": "37,799"
+  },
+  {
+    "rang": "Timor oriental",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Togo",
+    "pays": "1,994",
+    "pib_en_milliards_usd": "1,656",
+    "annee": "1,396"
+  },
+  {
+    "rang": "Tonga",
+    "pays": "0,071",
+    "pib_en_milliards_usd": "0,079",
+    "annee": "0,079"
+  },
+  {
+    "rang": "Trinité-et-Tobago",
+    "pays": "6,343",
+    "pib_en_milliards_usd": "7,113",
+    "annee": "8,28"
+  },
+  {
+    "rang": "Tunisie",
+    "pays": "9,566",
+    "pib_en_milliards_usd": "9,223",
+    "annee": "8,9"
+  },
+  {
+    "rang": "Tuvalu",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Turquie",
+    "pays": "96,596",
+    "pib_en_milliards_usd": "97,865",
+    "annee": "88,918"
+  },
+  {
+    "rang": "Ouganda",
+    "pays": "7,486",
+    "pib_en_milliards_usd": "12,12",
+    "annee": "8,41"
+  },
+  {
+    "rang": "Union soviétique",
+    "pays": "1 210,000",
+    "pib_en_milliards_usd": "-",
+    "annee": "1 570,000"
+  },
+  {
+    "rang": "Émirats arabes unis",
+    "pays": "41,725",
+    "pib_en_milliards_usd": "46,461",
+    "annee": "43,205"
+  },
+  {
+    "rang": "Royaume-Uni",
+    "pays": "604,85",
+    "pib_en_milliards_usd": "588,508",
+    "annee": "559,452"
+  },
+  {
+    "rang": "États-Unis",
+    "pays": "2 857,325",
+    "pib_en_milliards_usd": "3 207,025",
+    "annee": "3 343,8"
+  },
+  {
+    "rang": "Uruguay",
+    "pays": "12,217",
+    "pib_en_milliards_usd": "13,636",
+    "annee": "11,147"
+  },
+  {
+    "rang": "Vanuatu",
+    "pays": "0,121",
+    "pib_en_milliards_usd": "0,114",
+    "annee": "0,114"
+  },
+  {
+    "rang": "Venezuela",
+    "pays": "69,841",
+    "pib_en_milliards_usd": "78,367",
+    "annee": "79,998"
+  },
+  {
+    "rang": "Viêt Nam",
+    "pays": "35,357",
+    "pib_en_milliards_usd": "17,617",
+    "annee": "23,369"
+  },
+  {
+    "rang": "Bande de Gaza et  Cisjordanie",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Yémen",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Yougoslavie",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Zambie",
+    "pays": "4,246",
+    "pib_en_milliards_usd": "4,385",
+    "annee": "4,232"
+  },
+  {
+    "rang": "Zimbabwe",
+    "pays": "-",
+    "pib_en_milliards_usd": "-",
+    "annee": "-"
+  },
+  {
+    "rang": "Afrique",
+    "pays": "465,984",
+    "pib_en_milliards_usd": "475,726",
+    "annee": "481,617"
+  },
+  {
+    "rang": "Asie",
+    "pays": "2 364,507",
+    "pib_en_milliards_usd": "2 528,778",
+    "annee": "2 460,76"
+  },
+  {
+    "rang": "Europe",
+    "pays": "4 010,918",
+    "pib_en_milliards_usd": "3 611,61",
+    "annee": "3 497,215"
+  },
+  {
+    "rang": "Amérique du Nord",
+    "pays": "3 389,979",
+    "pib_en_milliards_usd": "3 841,238",
+    "annee": "3 900,909"
+  },
+  {
+    "rang": "Amérique du Sud",
+    "pays": "581,821",
+    "pib_en_milliards_usd": "584,723",
+    "annee": "495,199"
+  },
+  {
+    "rang": "Union européenne",
+    "pays": "3 213,784",
+    "pib_en_milliards_usd": "2 841,605",
+    "annee": "2 754,678"
+  },
+  {
+    "rang": "Monde",
+    "pays": "11 232,069",
+    "pib_en_milliards_usd": "11 526,241",
+    "annee": "11 310,303"
+  }
+]

@@ -15,3 +15,19 @@ const auth = async (req, res, next) => {
     
     // Find user and attach to request
     const user = await User.findById(decoded.id).select('-password');
+
+    if (!user) {
+        return res.status(401).json({ error: 'Token is not valid' });
+      }
+  
+      req.user = user;
+      next();
+    } catch (error) {
+      if (error.name === 'JsonWebTokenError') {
+        return res.status(401).json({ error: 'Token is not valid' });
+      }
+      res.status(500).json({ error: 'Server error' });
+    }
+  };
+  
+  module.exports = auth;
